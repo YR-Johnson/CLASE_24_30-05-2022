@@ -8,7 +8,7 @@ const autos = [
         coutas = 12;
         año = 2019;
         patente = "APL123";
-        vendido = true;
+        vendido = false;
     }
     {
         marca = "Toyota";
@@ -16,9 +16,10 @@ const autos = [
         precio = 850000;
         km = 0;
         color = "Blanco";
-        coutas = 12;
-        año = 2021;
-        patente = "APL123";
-        vendido = true;
+        coutas = 14;
+        año = 2019;
+        patente = "JLK116";
+        vendido = false;
     }
 ]
+module.exports = autos;
