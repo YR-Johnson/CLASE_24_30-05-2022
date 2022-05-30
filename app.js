@@ -20,5 +20,16 @@ const autos = [
         año: 2021,
         patente: "APL123",
         vendido: true,
+    },
+    {
+        marca: "Toyota",
+        modelo: "Hilux",
+        precio: 12500000,
+        km: 0,
+        color: "gris",
+        coutas: 12,
+        año: 2022,
+        patente: "FVG533",
+        vendido: true,
     }
 ]
